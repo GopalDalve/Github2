@@ -5,7 +5,7 @@ public class Demo2 {
 	{
 		System.out.println("Hello Word from local");
 		
-		// TODO Auto-generated method stub
+		// Hello gopal git here 
 
 	}
 
